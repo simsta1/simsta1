@@ -1,16 +1,23 @@
-### Hi there 👋
 
-<!--
-**SimonStaehli/SimonStaehli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Simon! 👋
 
-Here are some ideas to get you started:
+----
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![languages](https://img.shields.io/badge/Languages-Python%20%7C%20R%20%7C%20SQL-lightgrey)
+![tools](https://img.shields.io/badge/Tools-Sklearn%20%7C%20Pytorch%20%7C%20Pandas%20%7C%20Seaborn%20%7C%20Plotly%20%7C%20Docker%20-lightgrey)
+
+
+**Data Science Student** &#12299; _Degree in Progress_ ⟳
+<br/>
+**Photographer** &#12299; _Photographing Landscapes_ 📷
+
+----
+
+<a href="https://www.instagram.com/visualframing/">
+  <img align="left" alt="My insta" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://www.linkedin.com/in/simon-staehli-468b26168/">
+  <img align="left" alt="My Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+
+| &nbsp;&nbsp;&nbsp; Website : [simonstaehli.io](https://simonstaehli.github.io/CV/) &nbsp;&nbsp;&nbsp;
