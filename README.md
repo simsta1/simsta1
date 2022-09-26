@@ -6,11 +6,6 @@
 ![languages](https://img.shields.io/badge/Languages-Python%20%7C%20R%20%7C%20SQL-lightgrey)
 ![tools](https://img.shields.io/badge/Tools-Sklearn%20%7C%20Pytorch%20%7C%20Pandas%20%7C%20Seaborn%20%7C%20Plotly%20%7C%20Docker%20-lightgrey)
 
-
-**Data Science Student** &#12299; _Degree in Progress_ ⟳
-<br/>
-**Photographer** &#12299; _Photographing Landscapes_ 📷
-
 ----
 
 <a href="https://www.instagram.com/visualframing/">
