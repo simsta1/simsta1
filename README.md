@@ -15,4 +15,4 @@
   <img align="left" alt="My Linkedin" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [simonstaehli.io](https://simonstaehli.github.io/CV/) &nbsp;&nbsp;&nbsp;
+| &nbsp;&nbsp;&nbsp; Website : [simonstaehli.io](https://simsta1.github.io/CV/) &nbsp;&nbsp;&nbsp;
